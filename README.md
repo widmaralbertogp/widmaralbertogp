@@ -1,5 +1,37 @@
 <h1>Hi, I'm Widmar Alberto Gómez Pérez! <br/><a href="https://github.com/widmaralbertogp">IT Specialist</a>, <a href="https://www.linkedin.com/in/wagplink/">FullStack Developper</a>, <a href="https://www.youtube.com">Science Communicator</a></h1>
 <!-- Bloque de iconos y botones de tecnologías para GitHub Main Page -->
+<!-- Bloque de iconos y badges de skills verificadas en Credly -->
+
+--------------------------->>>>>
+<p align="center">
+  <a href="https://github.com/squidfunk/mkdocs-material/actions"><img
+    src="https://github.com/squidfunk/mkdocs-material/workflows/build/badge.svg"
+    alt="Build"
+  /></a>
+  
+  <a href="https://pypistats.org/packages/mkdocs-material"><img
+    src="https://img.shields.io/pypi/dm/mkdocs-material.svg"
+    alt="Downloads"
+  /></a>
+  <a href="https://pypi.org/project/mkdocs-material"><img
+    src="https://img.shields.io/pypi/v/mkdocs-material.svg"
+    alt="Python Package Index"
+  /></a>
+  <a href="https://hub.docker.com/r/squidfunk/mkdocs-material/"><img
+    src="https://img.shields.io/docker/pulls/squidfunk/mkdocs-material"
+    alt="Docker Pulls"
+  /></a>
+  <a href="https://github.com/sponsors/squidfunk"><img
+    src="https://img.shields.io/github/sponsors/squidfunk"
+    alt="Sponsors"
+  /></a>
+</p>
+
+
+
+
+----------------------->>>
+
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
 
   <!-- HTML -->
@@ -68,7 +100,6 @@
   </a>
 
 </div>
-
 
 <!-- Bloque de iconos y badges de skills verificadas en Credly -->
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
