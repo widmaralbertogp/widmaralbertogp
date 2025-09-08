@@ -88,8 +88,7 @@
 [twitter]: https://twitter.com/widmaralbertogp
 [youtube]: https://www.youtube.com/widmaralbertogp
 [instagram]: https://www.instagram.com/widmaralbertogp
-[linkedin]: https://linkedin.com/widmaralbertogp
-
+[linkedin]: https://linkedin.com/in/wagplink
 <!--
 **widmaralbertogp/widmaralbertogp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
