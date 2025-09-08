@@ -21,6 +21,11 @@
  ![Static Badge](https://img.shields.io/badge/VirtualBox-vb?style=for-the-badge&logo=VirtualBox&logoColor=white&labelColor=black&color=%232F61B4)
 ![Static Badge](https://img.shields.io/badge/Docker-dkr?style=for-the-badge&logo=Docker&logoColor=white&labelColor=black&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-kbnts?style=for-the-badge&logo=Kubernetes&logoColor=white&labelColor=black&color=%23326CE5)
+![Static Badge](https://img.shields.io/badge/LMS-lms?style=for-the-badge&logo=LMS-LMS&logoColor=white&labelColor=black&color=%23326CE5)
+![Static Badge](https://img.shields.io/badge/Moodle-mdl?style=for-the-badge&logo=Moodle&logoColor=white&labelColor=black&color=%23F98012)
+![Static Badge](https://img.shields.io/badge/ERP-erp?style=for-the-badge&logo=Erp&logoColor=white&labelColor=black&color=%230089FF)
+
+
 
 </div>
 
