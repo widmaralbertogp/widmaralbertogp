@@ -9,6 +9,7 @@
   ![Static Badge](https://img.shields.io/badge/Node.js-js?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black&color=%235FA04E)
   ![Static Badge](https://img.shields.io/badge/React-reac?style=for-the-badge&logo=react&logoColor=white&labelColor=black&color=%2361DAFB)
   ![Static Badge](https://img.shields.io/badge/JAVA-js?style=for-the-badge&logo=Java-java&label=%20Java&labelColor=black&color=%232F61B4)
+  ![Static Badge](https://img.shields.io/badge/Python-pytn?style=for-the-badge&logo=Python&logoColor=white&labelColor=black&color=%233776AB)
   ![Static Badge](https://img.shields.io/badge/Php-php?style=for-the-badge&logo=php&logoColor=white&labelColor=black&color=%23777BB4)
   ![Static Badge](https://img.shields.io/badge/Git-git?style=for-the-badge&logo=git&logoColor=white&labelColor=black&color=%23F05032)
   ![Static Badge](https://img.shields.io/badge/Github-github?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%239E95B7)
