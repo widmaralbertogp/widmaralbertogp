@@ -24,6 +24,14 @@
 ![Static Badge](https://img.shields.io/badge/LMS-lms?style=for-the-badge&logo=LMS-LMS&logoColor=white&labelColor=black&color=%23326CE5)
 ![Static Badge](https://img.shields.io/badge/Moodle-mdl?style=for-the-badge&logo=Moodle&logoColor=white&labelColor=black&color=%23F98012)
 ![Static Badge](https://img.shields.io/badge/ERP-erp?style=for-the-badge&logo=Erp&logoColor=white&labelColor=black&color=%230089FF)
+![Static Badge](https://img.shields.io/badge/Sap-erp?style=for-the-badge&logo=Sap&logoColor=white&labelColor=black&color=%230FAAFF)
+![Static Badge](https://img.shields.io/badge/UI5-sap?style=for-the-badge&logo=SAP&logoColor=white&labelColor=black&color=%230FAAFF)
+![Static Badge](https://img.shields.io/badge/FIORI-sap?style=for-the-badge&logo=SAP&logoColor=white&labelColor=black&color=%230FAAFF)
+![Static Badge](https://img.shields.io/badge/BTP-sap?style=for-the-badge&logo=SAP&logoColor=white&labelColor=black&color=%230FAAFF)
+![Static Badge](https://img.shields.io/badge/cPANEL-cpl?style=for-the-badge&logo=Cpanel&logoColor=white&logoSize=auto&labelColor=black&color=%23FF6C2C)
+![Static Badge](https://img.shields.io/badge/Webmin-wm?style=for-the-badge&logo=Webmin&logoColor=white&logoSize=auto&labelColor=black&color=%237DA0D0)
+![Static Badge](https://img.shields.io/badge/Zoom-zm?style=for-the-badge&logo=Zoom&logoColor=white&labelColor=black&color=%230B5CFF)
+![Static Badge](https://img.shields.io/badge/Teamviewer-tw?style=for-the-badge&logo=teamviewer&logoColor=white&labelColor=black&color=%23050A52)
 
 
 
