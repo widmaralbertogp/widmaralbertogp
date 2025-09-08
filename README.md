@@ -1,5 +1,20 @@
 <h1>Hi, I'm Widmar Alberto Gómez Pérez! <br/><a href="https://github.com/widmaralbertogp">IT Specialist</a>, <a href="https://www.linkedin.com/in/wagplink/">FullStack Developper</a>, <a href="https://www.youtube.com">Science Communicator</a></h1>
 
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="widmaralbertogp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="widmaralbertogp | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="widmaralbertogp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="widmaralbertogp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/widmaralbertogp
+[youtube]: https://www.youtube.com/widmaralbertogp
+[instagram]: https://www.instagram.com/widmaralbertogp
+[linkedin]: https://linkedin.com/in/wagplink
+<!--
+
+
+
 <div style="display:flex; flex-wrap:wrap; gap:10px; border-radius:40px;">
 
   <!-- HTML -->
