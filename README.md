@@ -17,6 +17,12 @@
  ![Static Badge](https://img.shields.io/badge/MariaDB-mdb?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=black&color=%23003545)
  ![Static Badge](https://img.shields.io/badge/PostgreSQL-psql?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=black&color=%234169E1)
  ![Static Badge](https://img.shields.io/badge/MongoDB-mdb?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=black&color=%2347A248)
+ ![Static Badge](https://img.shields.io/badge/VMware-vmw?style=for-the-badge&logo=VMware&logoColor=white&labelColor=black&color=%23607078)
+ ![Static Badge](https://img.shields.io/badge/VirtualBox-vb?style=for-the-badge&logo=VirtualBox&logoColor=white&labelColor=black&color=%232F61B4)
+![Static Badge](https://img.shields.io/badge/Docker-dkr?style=for-the-badge&logo=Docker&logoColor=white&labelColor=black&color=%232496ED)
+![Static Badge](https://img.shields.io/badge/Kubernetes-kbnts?style=for-the-badge&logo=Kubernetes&logoColor=white&labelColor=black&color=%23326CE5)
+
+
 
 
 
