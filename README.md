@@ -42,16 +42,13 @@
 ![Static Badge](https://img.shields.io/badge/Android-ga?style=for-the-badge&logo=Android&logoColor=white&labelColor=black&color=%2300897B)
 ![Static Badge](https://img.shields.io/badge/Redhat-lnx?style=for-the-badge&logo=Redhat&logoColor=white&labelColor=black&color=%23EE0000)
 ![Static Badge](https://img.shields.io/badge/OpenSuse-lnx?style=for-the-badge&logo=OpenSuse&logoColor=white&labelColor=black&color=%2373BA25)
+![Static Badge](https://img.shields.io/badge/Gnubash-sh?style=for-the-badge&logo=Gnubash&logoColor=white&labelColor=black&color=%234EAA25)
 ![Static Badge](https://img.shields.io/badge/Windows-msw?style=for-the-badge&logo=Windows&logoColor=white&labelColor=black&color=%2380B3FF)
 ![Static Badge](https://img.shields.io/badge/Windows%20Server-ws?style=for-the-badge&logo=Windows&logoColor=white&labelColor=black&color=%2380B3FF)
 ![Static Badge](https://img.shields.io/badge/Trello-tl?style=for-the-badge&logo=Trello&logoColor=white&labelColor=black&color=%230052CC)
 ![Static Badge](https://img.shields.io/badge/Jira-jra?style=for-the-badge&logo=Jira&logoColor=white&labelColor=black&color=%230052CC)
 ![Static Badge](https://img.shields.io/badge/Slack-slk?style=for-the-badge&logo=Slack&logoColor=white&labelColor=black&color=%234A154B)
 ![Static Badge](https://img.shields.io/badge/Discord-drc?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=%235865F2)
-
-
-
-
 </div>
 
 
