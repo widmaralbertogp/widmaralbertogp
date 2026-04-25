@@ -109,7 +109,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 ## 📜 Certifications & Credentials
 
 <p align="left">
-  Click on each badge to access verified credentials and detailed skills on Credly.
+  <strong>Click on each badge to access verified credentials and detailed skills on Credly.</strong>
 </p>
 
 
@@ -239,11 +239,10 @@ Comprehensive technology stack built through 22+ years of professional experienc
 </table>
 
 </p>
-<br>
 
 <p align="left">
   <a href="https://www.credly.com/users/widmar-alberto-gomez-perez">
-    <strong>🔗 View full certification portfolio on Credly</strong>
+    🔗 View full certification portfolio on Credly.
   </a>
 </p>
 <br>
