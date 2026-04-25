@@ -121,7 +121,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 <td align="center" width="180">
 
 **DevOps Essentials**
-
+<br>
 ---
 
 <a href="https://www.credly.com/badges/d3aadbf1-d1b0-4327-905b-bc00d4ba327f/public_url">
