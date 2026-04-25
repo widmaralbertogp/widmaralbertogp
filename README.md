@@ -272,9 +272,8 @@ Comprehensive technology stack built through 22+ years of professional experienc
 </a>
 
 <a href="https://widmaralbertogp.github.io">
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github pages&logoColor=blue">
+  <img src="https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white">
 </a>
-
 </p>
 
 <p align="center">
