@@ -200,7 +200,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <td align="center">
 
-**Badge 7**
+**JavaScript Programming Essentials**
 
 ---
 
