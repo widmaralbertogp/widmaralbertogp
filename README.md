@@ -108,7 +108,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 <a name="certs"></a>
 ## 📜 Certifications & Credentials
 
-<p align="center">
+<p align="left">
   Click on each badge to access verified credentials and detailed skills on Credly.
 </p>
 
