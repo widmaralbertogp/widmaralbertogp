@@ -106,11 +106,34 @@ Comprehensive technology stack built through 22+ years of professional experienc
 <br>
 
 <a name="certs"></a>
-## 📜 Certifications & Continuous Learning
+## 📜 Certifications & Credentials
 
-- IBM Professional Certificates  
-- Coursera Specializations  
-- SAP Learning (BTP, Fiori, UI5)  
+<p align="center">
+  <a href="https://www.credly.com/badges/d3aadbf1-d1b0-4327-905b-bc00d4ba327f/public_url">
+    <img src="https://images.credly.com/size/110x110/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" width="80">
+  </a>
+  <a href="https://www.credly.com/badges/c2898781-8a9e-47cc-a310-6a0d37463133/public_url">
+    <img src="https://images.credly.com/size/110x110/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" width="80">
+  </a>
+  <a href="https://www.credly.com/badges/71601b7d-f2d3-44ef-84b6-1393145ecbf7/public_url">
+    <img src="https://images.credly.com/size/110x110/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" width="80">
+  </a>
+  <a href="https://www.credly.com/badges/4368b529-52f0-44ce-be8b-942f46118ee2/public_url">
+    <img src="https://images.credly.com/size/110x110/images/1b67aaf9-670d-4c92-8d51-7ac1190f0a42/image.png" width="80">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Verified certifications from IBM, Coursera, and SAP Learning.</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.credly.com/users/TU-USUARIO">
+    🔗 View all credentials on Credly
+  </a>
+</p>
 
 <br>
 
