@@ -276,9 +276,6 @@ Comprehensive technology stack built through 22+ years of professional experienc
 </a>
 </p>
 
-<p align="center">
-📧 widmar.alberto.gp@gmail.com • 🌐 widmaralbertogp.github.io
-</p>
 <p align="right">
 <a href="#top">⬆️ Back to Menu</a>
 </p>
