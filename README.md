@@ -158,7 +158,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <tr>
 
-<td align="center">
+<td align="center" background-color="white">
 
 **Introduction to HTML, CSS, & JavaScript**
 
