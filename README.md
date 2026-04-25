@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://tu-link/banner-widmar.png" width="100%">
+  <img src="banner_widmar.png" width="100%">
 </p>
 
 <br>
