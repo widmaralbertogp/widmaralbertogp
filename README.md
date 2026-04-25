@@ -109,6 +109,11 @@ Comprehensive technology stack built through 22+ years of professional experienc
 ## 📜 Certifications & Credentials
 
 <p align="center">
+  Click on each badge to access verified credentials and detailed skills on Credly.
+</p>
+
+
+<p align="center">
 
 <table>
 <tr>
@@ -234,13 +239,6 @@ Comprehensive technology stack built through 22+ years of professional experienc
 </table>
 
 </p>
-
-<br>
-
-<p align="center">
-  <sub>Click on each badge to access verified credentials and detailed skills on Credly.</sub>
-</p>
-
 <br>
 
 <p align="center">
