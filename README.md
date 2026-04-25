@@ -132,7 +132,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <td align="center" width="180">
 
-**Git & GitHub**
+**Git and GitHub Essentials**
 
 ---
 
@@ -144,7 +144,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <td align="center" width="180">
 
-**Cloud Computing**
+**Introduction to Cloud Computing**
 
 ---
 
@@ -160,7 +160,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <td align="center">
 
-**HTML, CSS & JavaScript**
+**Introduction to HTML, CSS, & JavaScript**
 
 ---
 
@@ -172,7 +172,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <td align="center">
 
-**IT Fundamentals**
+**IT Fundamentals for Everyone**
 
 ---
 
@@ -184,7 +184,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <td align="center">
 
-**Software Engineering**
+**Software Engineering Essentials**
 
 ---
 
