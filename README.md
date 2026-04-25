@@ -1,4 +1,4 @@
-<h1>Hi, I'm Widmar Alberto Gómez Pérez! <br/><a href="https://github.com/widmaralbertogp">IT Specialist</a>, <a href="https://www.linkedin.com/in/wagplink/">FullStack Developper</a>, <a href="https://www.youtube.com">Science Communicator</a></h1>
+<h1>Hi, I'm Widmar Alberto Gómez Pérez! <br/><a href="https://github.com/widmaralbertogp"></a>, <a href="https://www.linkedin.com/in/wagplink/"></a>, <a href="https://www.youtube.com"></a></h1>
 
 <h2> 🤳 Connect with me:</h2>
 
