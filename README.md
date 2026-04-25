@@ -3,19 +3,13 @@
 <p align="center">
   <img src="banner_widmar.png" width="100%">
 </p>
-
-<br>
-
 <p align="center">
-
 <a href="#tech"><img src="https://img.shields.io/badge/🛠️_Tech-000000?style=for-the-badge"></a>
 <a href="#portfolio"><img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"></a>
 <a href="#certs"><img src="https://img.shields.io/badge/📜_Certifications-000000?style=for-the-badge"></a>
 <a href="#contact"><img src="https://img.shields.io/badge/📫_Contact-000000?style=for-the-badge"></a>
-
 </p>
 
-<br>
 <br>
 
 Senior IT Specialist with 22+ years of experience in systems administration and IT operations, recognized for coordinating technical environments and supporting key technology decisions.
