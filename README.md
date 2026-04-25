@@ -156,7 +156,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 </tr>
 
-<tr background-color="white">
+<tr>
 
 <td align="center">
 
