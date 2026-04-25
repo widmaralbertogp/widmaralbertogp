@@ -204,15 +204,15 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 ---
 
-<a href="https://www.credly.com/badges/59907648-b1be-4e93-8f6c-14bafdee622b/public_url">
-<img src="https://images.credly.com/size/110x110/images/899a5963-d3c7-45ee-a16c-4827cf24e836/image.png" width="90">
+<a href="https://www.credly.com/badges/d5316918-b602-461d-9d30-3285b2ca77af/public_url">
+<img src="https://images.credly.com/size/110x110/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="90">
 </a>
 
 </td>
 
 <td align="center">
 
-**Badge 8**
+**Linux Commands & Shell Scripting Essentials V2**
 
 ---
 
