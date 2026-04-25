@@ -1,3 +1,27 @@
+## 🛠️ Tech Stack
+
+### 💻 Systems & Infrastructure
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?logo=microsoft&logoColor=white)
+
+### 🌐 Platforms & Web
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+
+### ⚙️ Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 <h1>Hi, I'm Widmar Alberto Gómez Pérez! <br/><a href="https://github.com/widmaralbertogp"></a>, <a href="https://www.linkedin.com/in/wagplink/"></a>, <a href="https://www.youtube.com"></a></h1>
 
 <h2> 🤳 Connect with me:</h2>
