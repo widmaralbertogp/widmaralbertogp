@@ -216,8 +216,8 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 ---
 
-<a href="TU_LINK_BADGE_8">
-<img src="TU_IMAGEN_BADGE_8" width="90">
+<a href="https://www.credly.com/badges/d5316918-b602-461d-9d30-3285b2ca77af/public_url">
+<img src="https://images.credly.com/size/110x110/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="90">
 </a>
 
 </td>
