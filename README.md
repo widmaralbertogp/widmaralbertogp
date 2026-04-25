@@ -241,9 +241,9 @@ Comprehensive technology stack built through 22+ years of professional experienc
 </p>
 <br>
 
-<p align="center">
-  <a href="[https://www.credly.com/users/TU-USUARIO](https://www.credly.com/users/widmar-alberto-gomez-perez)">
-    🔗 View full certification portfolio on Credly
+<p align="left">
+  <a href="https://www.credly.com/users/widmar-alberto-gomez-perez">
+    <strong>🔗 View full certification portfolio on Credly</strong>
   </a>
 </p>
 <br>
