@@ -245,8 +245,6 @@ Comprehensive technology stack built through 22+ years of professional experienc
     🔗 View full certification portfolio on Credly.
   </a>
 </p>
-<br>
-
 <p align="right">
 <a href="#top">⬆️ Back to Menu</a>
 </p>
@@ -277,9 +275,6 @@ Comprehensive technology stack built through 22+ years of professional experienc
 <p align="center">
 📧 tuemail@email.com • 🌐 widmaralbertogp.github.io
 </p>
-
-<br>
-
 <p align="right">
 <a href="#top">⬆️ Back to Menu</a>
 </p>
