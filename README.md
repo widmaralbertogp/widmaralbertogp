@@ -224,13 +224,14 @@ Comprehensive technology stack built through 22+ years of professional experienc
 
 <td align="center">
 
-**Badge 9**
+**Introduction to Agile Development and Scrum**
 
 ---
 
-<a href="TU_LINK_BADGE_9">
-<img src="TU_IMAGEN_BADGE_9" width="90">
+<a href="https://www.credly.com/badges/a39770cc-f64c-4009-873e-98433a92fb63/public_url">
+<img src="https://images.credly.com/size/110x110/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="90">
 </a>
+
 
 </td>
 
