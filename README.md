@@ -92,7 +92,7 @@ Comprehensive technology stack built through 22+ years of professional experienc
 ## 🌐 Portfolio & Professional Profiles
 
 - 🌐 https://widmaralbertogp.github.io  
-- 🎓 https://www.credly.com/users/TU-USUARIO  
+- 🎓 https://www.credly.com/users/widmar-alberto-gomez-perez/badges#credly
 - 🏢 https://learning.sap.com/profile/TU-USUARIO  
 
 <br>
